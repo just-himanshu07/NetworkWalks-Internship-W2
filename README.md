@@ -4,7 +4,7 @@
 **Author:** Himanshu Raj  
 **Environment:** Kali Linux  
 **Tools:** WHOIS, WhatWeb, Nslookup, cURL, Wafw00f, DNSRecon, Nmap, ARP  
-**Date:** 15 November 2026  
+**Date:** 14 November 2026  
 **Program:** NetworkWalks Cybersecurity Internship — Week 2
 
 ---
